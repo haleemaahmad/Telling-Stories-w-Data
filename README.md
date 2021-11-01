@@ -14,6 +14,10 @@ I want to learn everything. Data, art, coding - it's all a little bit intimidati
 This is where I will be showcasing what I learn in Telling Stories with Data. Check back soon!
 
 
-# Government Debt
+## Government Debt
 This a test to see how well I can follow directions. If you're able to see the chart detailing global government debt as a percentage of GDP, then I did alright. If you can't, well...it's all up from here, right?
 <iframe src="https://data.oecd.org/chart/6vxh" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vxh" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
+
+# Government Debt Vizualized in Sparklines
+This is the same debt but it is demonstrated in sparkline charts so you can see fluctuations between 1995-2019. 
+<div class="flourish-embed flourish-chart" data-src="visualisation/7700445"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
