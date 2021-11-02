@@ -15,15 +15,16 @@ This is where I will be showcasing what I learn in Telling Stories with Data. Ch
 
 
 # Government Debt
-This a test to see how well I can follow directions. If you're able to see the chart detailing global government debt as a percentage of GDP, then I did alright. If you can't, well...it's all up from here, right?
-[Click here to see if I got it right.](Visualizing Government Debt)
+Below is an overview overview of government debt as a percentage of GDP, displayed in a bar chart. This debt shows 2020 government debt for global economies that is organized from lowest to highest ratios.
 
 <iframe src="https://data.oecd.org/chart/6vxh" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vxh" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
-## Government Debt Vizualized in Sparklines and Chart
-This is the same debt but it is demonstrated in sparkline charts so you can see fluctuations between 1995-2019 for each of the countries. 
+## Government Debt Visualized in Sparklines Charts
+Government debt is not incurred overnight. This is the same debt but it is demonstrated in sparkline charts so you can see fluctuations between 1995-2019 for each of the countries that shows some history that leads us to our original bar chart that only shows ratios for 2020. We use sparklines because it helps us visualize the debt in a time series, and the grid helps us compare different countries at a glance. 
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/7700445"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Government Debt Mass
-Now if that isn't alarming, here is the same data, but this time, let's see the mass of these growing debts. 
+## Government Debt Visualized as Mass in Area Charts
+Now if that isn't alarming, here is the same data, but this time, it is portrayed in an area chart for each of the countries listed above. While we still see the trends that are emerging, the area chart gives us a greater sense of the trends demonstrated above. Below, you can see the same trends as in the sparkline charts, but you can also better visualize the mass of the debts
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/7701571"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
