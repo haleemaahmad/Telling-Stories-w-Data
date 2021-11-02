@@ -23,3 +23,7 @@ This a test to see how well I can follow directions. If you're able to see the c
 ## Government Debt Vizualized in Sparklines and Chart
 This is the same debt but it is demonstrated in sparkline charts so you can see fluctuations between 1995-2019 for each of the countries. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7700445"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Government Debt Mass
+Now if that isn't alarming, here is the same data, but this time, let's see the mass of these growing debts. 
+<div class="flourish-embed flourish-chart" data-src="visualisation/7701571"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
