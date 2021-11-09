@@ -14,7 +14,7 @@ I want to learn everything. Data, art, coding - it's all a little bit intimidati
 This is where I will be showcasing what I learn in Telling Stories with Data. Check back soon!
 
 ## Projects
-[Visualizing Government Debt](governmentdebt.md)
+[Visualizing Government Debt](GovernmentDebt.md)
 
 # Government Debt
 Below is an overview overview of government debt as a percentage of GDP, displayed in a bar chart. This debt shows 2020 government debt for global economies that is organized from lowest to highest ratios.
