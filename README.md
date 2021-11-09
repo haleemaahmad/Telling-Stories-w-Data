@@ -15,3 +15,4 @@ This is where I will be showcasing what I learn in Telling Stories with Data. Ch
 
 ## Projects
 [Visualizing Government Debt](GovernmentDebt.md)
+[Critique By Design](critiquebydesign.md)
