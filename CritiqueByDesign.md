@@ -108,8 +108,13 @@ User 1: *I like the first one (Draft 1) the most since you don’t have to keep 
 
 User 2: *I like this headline the most (Draft 2) and the layout makes it easy to interpret the numbers!! Red and gray would be good changes for the theme.*
 
+#### Incorporating Feedback
 I decided that based on these two comments, I would keep the data in chronological order, but I would rework the colors to reflect that a ranking system that wouldn't confuse the audience. 
 
 ## STEP Five: Build your solution. 
+Finally, after working through a critique of the original visual, conceptualizing a wireframe and adapting earlier drafts to incorporate user feedback, I came up with a final visualization. 
+
+The data presented below is listed in a horizontal bar chart. I combined the casualty data into one string that shows the sum of deaths and injuries and conveys them each in a single bar. I used a golden red gradient to reflect the trend of declining and rising rates, and I modified the title to redirect the audience to the year 2021. The chart is interactive and is animated to show the data in chronological descending order as well as by most-least violent years. 
+
 ### UNAMA Afghan Casualties - Final
 <script type='text/javascript' src='https://prod-useast-b.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1152px; height: 678px;'><object class='tableauViz' width='1152' height='678' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-b.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;hjahmadportfolio' /><param name='name' value='CritiqueVisualization-UNAMAAfghanCasualties&#47;AfghanCasualities' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
