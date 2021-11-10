@@ -1,3 +1,5 @@
+#### Go back to my portfolio: https://haleemaahmad.github.io/Telling-Stories-w-Data/
+
 # Critique By Design
 ## STEP One: Find a data visualization. 
 ![alttext](https://github.com/haleemaahmad/Telling-Stories-w-Data/issues/1#issue-1049372629)
