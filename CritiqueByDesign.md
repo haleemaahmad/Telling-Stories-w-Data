@@ -1,9 +1,13 @@
-#### Go back to my portfolio: https://haleemaahmad.github.io/Telling-Stories-w-Data/
+#### Go back to my portfolio: https://haleemaahmad.github.io/Telling-Stories-w-Data/ 
 
 # Critique By Design
 ## STEP One: Find a data visualization. 
+
+### UNMA Total Civilian Casualties
 ![UNAMATotalCivCas](https://user-images.githubusercontent.com/81713787/141053265-b3c336a5-9ffc-4f2a-9e33-f006d342904b.jpeg)
+
 Source: [United Nations Assisted Mission in Afghanistan](https://news.un.org/en/story/2021/07/1096382)
+
 
 ## STEP Two: Critique the Visualization.
 ### Critique
@@ -17,6 +21,7 @@ While I think the bar chart is an effective format, I do not think that the use 
 This figure does not do a good job of highlighting the fact that casualty rates are rising and that there is correlation with US troops being withdrawn from Afghanistan. If this report was anywhere else, like a really important policy briefing, I think that this chart would be completely overlooked.In terms of recommendations, first, I would combine injuries and deaths into a total category and depict that instead. I would do this because, as an audience member, I care about the big picture. I want to know what the overall trend is and how it correlates to removing troops from Afghanistan. Because this is a UN report, the colors that show distinction follow a UN color palette theme. I think this doesn’t do the cause justice because the numbers are alarming and I want to depict that. Secondly, I would add a color scheme that would show the natural progression and degression of the casualty rates. I think that the color scheme is not effective in this context. It just seems like something that is going to be memorialized in a report and nothing more. 
 
 Overall, I don't mind this visualization but I do not think it properly does the situation justice. The data collected for 2021 is only up to June. As someone points out in the user feedback, this data foreshadows the mass casualties at the hands of the Taliban as the US withdrew from Afghanistan just a few months later and the article was published before the withdrawal. Initially, a part of me wonders how this data, had it been made public, would have had the potential to sway public opinion at the onset of the withdarawal that would have prompted a slower exit. 
+
 
 
 ## STEP Three: Wireframe a solution.
