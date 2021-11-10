@@ -87,7 +87,29 @@ I was surprised to hear that people were taken aback by the ranking order. I had
 I decided on the warm color scheme because I wanted to show variation. I also think the way the data was presented chronologically still highlighted the year 2021 because it was a big red bar following a decreasing trend. Again, this demonstrated that there was a decreasing trend that users were able to pick up on and I did not feel the need to explicitly call it out. 
 
 ##### Additional Drafting with Feedback - Using Tableau
+After receiving some of the feedback, I decided to start playing around with Tableau to see what if what I could bring my idea to fruition. 
+
+**Draft 1**
+<img width="1032" alt="Screen Shot 2021-11-09 at 8 13 42 PM" src="https://user-images.githubusercontent.com/81713787/141053653-0c1a1a38-b2bb-4dd5-ae4f-0cf8cdbd6d1f.png">
+In this very early version of the visualization, the data is simply presented in a bar chart with both categories of data combined. I ranked it chronologically in descending order to see what the data would look like. 
+
+**Draft 2**
+<img width="859" alt="Screen Shot 2021-11-09 at 8 13 33 PM" src="https://user-images.githubusercontent.com/81713787/141053816-c4224ed7-5f80-4989-9d04-b2425920329b.png">
+In this version, I experimented with a few colors. In my sketch, I depicted 2021 in orange for contrast. This seemed to confuse viewers more than anything so I decided to see how it would look in a visualization. I decided I would send these versions back to my users and see if I could obtain additional feedback. 
+
+**Draft 3**
+<img width="860" alt="Screen Shot 2021-11-09 at 9 40 18 PM" src="https://user-images.githubusercontent.com/81713787/141053968-982808b3-ad0d-4740-b3b0-536747e6072e.png">
+Finally, I decided to complete the bundle with this additional visualization where I would show 2021s rank among the most violent years in terms of casualties. You'll see that I was also experimenting with graphic titles. 
+
+### User Feedback Round 2
+This time, I just sent the visuals and asked for explicit feedback. This is what I received.
+
+User 1: *I like the first one (Draft 1) the most since you don’t have to keep scanning back at the year since it’s in order but the color is a bit too jolly for the topic.*
+
+User 2: *I like this headline the most (Draft 2) and the layout makes it easy to interpret the numbers!! Red and gray would be good changes for the theme.*
+
+I decided that based on these two comments, I would keep the data in chronological order, but I would rework the colors to reflect that a ranking system that wouldn't confuse the audience. 
 
 ## STEP Five: Build your solution. 
-### UNAMA Afghan Casualties
+### UNAMA Afghan Casualties - Final
 <script type='text/javascript' src='https://prod-useast-b.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1152px; height: 678px;'><object class='tableauViz' width='1152' height='678' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-b.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;hjahmadportfolio' /><param name='name' value='CritiqueVisualization-UNAMAAfghanCasualties&#47;AfghanCasualities' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
