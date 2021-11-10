@@ -8,11 +8,10 @@ Source: [United Nations Assisted Mission in Afghanistan](https://news.un.org/en/
 ## STEP Two: Critique the Visualization.
 ### Critique
 
-Immediately, the colors of this visualization caught my eye. I found there to be some dissonance with the title and the nature of the report which seemed to cause alarm but the data did not prompt the same concern. 
+Immediately, the colors of this visualization caught my eye. I found there to be some dissonance with the title and the nature of the report which seemed to cause alarm but the data did not prompt the same concern. i.	This figure does not do a good job of highlighting the fact that casualty rates are rising and that there is correlation with US troops being withdrawn from Afghanistan. If this report was anywhere else, like a really important policy briefing, I think that this chart would be completely overlooked. With that said, I found that the visualization color theme was neutral. It did not catch my attention right away. It was aesthetically pleasing and beautiful but the theme was poised to match the UNs logo.
 
 Overall, I don't mind this visualization but I do not think it properly does the situation justice. The data collected for 2021 is only up to June. As someone points out in the user feedback, this data foreshadows the mass casualties at the hands of the Taliban as the US withdrew from Afghanistan just a few months later and the article was published before the withdrawal. Initially, a part of me wonders how this data, had it been made public, would have had the potential to sway public opinion at the onset of the withdarawal that would have prompted a slower exit. 
 
-With that said, I found that the visualization color theme ws neutral. It did not catch my attention right away. It was aesthetically pleasing and beautiful but the theme was poised to match the UNs logo.
 
 ## STEP Three: Wireframe a solution.
 #### Wireframe sketch. 
@@ -20,6 +19,7 @@ With that said, I found that the visualization color theme ws neutral. It did no
 #### Explanation 
 
 ## STEP Four: Test the solution. 
+I sent the wireframe drawing to 5 users ranging between the ages of 21-35. I received feedback from 4 individuals in time for submission. I sent this alongside a worksheet with the questions discussed later. No background or context on the data was provided. The feedback is listed below. 
 
 ### User Feedback
 #### Question 1: Can you tell me what you think this is?
