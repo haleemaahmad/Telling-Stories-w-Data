@@ -8,7 +8,7 @@
 
 Source: [United Nations Assisted Mission in Afghanistan](https://news.un.org/en/story/2021/07/1096382)
 
-
+*Explanation of choice*: Through my research, I was eager to see how well government or *quasi* government agencies are able to effectivley convey collected data. I stumbled upon this article by the United Nations Assisted Mission in Afghanistan and the headline immediately caught my attention. At first glance, the chart seemed fine. What I realized was that I was just ignoring the chart because there was so much text that I averted my attention to focus on the text in the article instead. Realizing this, I decided to take a closer, objective look at the chart and data presented. 
 
 ## STEP Two: Critique the Visualization.
 ### Critique
