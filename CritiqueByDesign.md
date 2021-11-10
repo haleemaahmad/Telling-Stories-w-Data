@@ -30,7 +30,9 @@ Overall, I don't mind this visualization but I do not think it properly does the
 ![AfghanWireFrame](https://user-images.githubusercontent.com/81713787/141053329-c5303586-1f2b-4ed8-8ea5-b516a0d1ce85.jpg)
 
 #### Explanation 
+I find this initial wireframing step to be the most difficult. While the critique seems to flow naturally, reworking the elements always feels a bit daunting. Nonetheless, the goal of this sketch is just to see if what I was thinking in my critique made sense in application. Initially, I tried to use Balsaqmiq to wireframe but I found that my novice skills were better suited for a handwritten sketch. 
 
+After the first sketch, I was worried that I may want to keep the specific data about deaths and injuries. The only way I could think to represent this data in a single chart was in the same bar chart format the original visualization was depicted in. The drawing does a good job of reflecting my hesitation halfway through the 2nd sketch. 
 
 
 ## STEP Four: Test the solution. 
