@@ -131,7 +131,15 @@ Finally, after working through a critique of the original visual, conceptualizin
 The data presented below is listed in a horizontal bar chart. I combined the casualty data into one string that shows the sum of deaths and injuries and conveys them each in a single bar. I used a golden red gradient to reflect the trend of declining and rising rates, and I modified the title to redirect the audience to the year 2021. The chart is interactive and is animated to show the data in chronological descending order as well as by most-least violent years. 
 
 ### UNAMA Afghan Casualties - Final
-<script type='text/javascript' src='https://prod-useast-b.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1152px; height: 678px;'><object class='tableauViz' width='1152' height='678' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-b.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;hjahmadportfolio' /><param name='name' value='CritiqueVisualization-UNAMAAfghanCasualties&#47;AfghanCasualities' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
+<div class='tableauPlaceholder' id='viz1636569049935' style='position: relative'><noscript><a href='#'><img alt='2021 sees rise in Afghan casualties following US exit (source: UNAMA). ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cr&#47;CritiqueVisualization-UNAMAAfghanCasualties&#47;AfghanCasualities&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CritiqueVisualization-UNAMAAfghanCasualties&#47;AfghanCasualities' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cr&#47;CritiqueVisualization-UNAMAAfghanCasualties&#47;AfghanCasualities&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+var divElement = document.getElementById('viz1636569049935');                    
+var vizElement = divElement.getElementsByTagName('object')[0];                    
+vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+var scriptElement = document.createElement('script');                    
+scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 
 [Go back to my portfolio.](README.md)
