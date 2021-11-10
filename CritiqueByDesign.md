@@ -9,6 +9,7 @@
 Source: [United Nations Assisted Mission in Afghanistan](https://news.un.org/en/story/2021/07/1096382)
 
 
+
 ## STEP Two: Critique the Visualization.
 ### Critique
 
@@ -29,6 +30,8 @@ Overall, I don't mind this visualization but I do not think it properly does the
 ![AfghanWireFrame](https://user-images.githubusercontent.com/81713787/141053329-c5303586-1f2b-4ed8-8ea5-b516a0d1ce85.jpg)
 
 #### Explanation 
+
+
 
 ## STEP Four: Test the solution. 
 I sent the wireframe drawing to 5 users ranging between the ages of 21-35. I received feedback from 4 individuals in time for submission. I sent this alongside a worksheet with the questions discussed later. No background or context on the data was provided. The feedback is listed below. 
@@ -79,12 +82,14 @@ User 3: *I wouldn’t separate the data in the bottom sketch. I like the concept
 
 User 4: *I really like how the bar chart is horizontal in the first model. I don’t think you need to differentiate between the types of casualties. I think I generally like the first one more.  Definitely highlight 2021 because I see that there’s a declining trend that is increasing because of deployment and this could have served as good foreshadowing before we deployed US troops.*
 
+
 #### Reflection
 I was immediately relieved that all of my users were able to understand what I was trying to convey in each of the charts. I was persoanlly conflicted with whether or not I wanted to combine the data into a single chart, thereby simplifying the overall data, or if I wanted to distinguish between *deaths* and *injuries*. Ultimately, the general consensus was that peoeple preferred to see the data simplified. Additional feedback I received was that anyone could look at the way the data was presented and understand it. This conveyed that while the data was simple and somewhat trimmed down, it was still effective. I decided to keep the simple model in my subsequent drafts. 
 
 I was surprised to hear that people were taken aback by the ranking order. I had a couple of users ask to see the same data presented chronologically. In the end, I decided to present the day chornologically because I felt that there was a trend that was also important to highlight and the fact that 2021 is the last data point on the chart still caused some immediate alarm and was more effective used in this way than tucking it away at 4th place. 
 
 I decided on the warm color scheme because I wanted to show variation. I also think the way the data was presented chronologically still highlighted the year 2021 because it was a big red bar following a decreasing trend. Again, this demonstrated that there was a decreasing trend that users were able to pick up on and I did not feel the need to explicitly call it out. 
+
 
 ##### Additional Drafting with Feedback - Using Tableau
 After receiving some of the feedback, I decided to start playing around with Tableau to see what if what I could bring my idea to fruition. 
@@ -94,22 +99,27 @@ After receiving some of the feedback, I decided to start playing around with Tab
 In this very early version of the visualization, the data is simply presented in a bar chart with both categories of data combined. I ranked it chronologically in descending order to see what the data would look like. 
 
 **Draft 2**
+
 <img width="859" alt="Screen Shot 2021-11-09 at 8 13 33 PM" src="https://user-images.githubusercontent.com/81713787/141053816-c4224ed7-5f80-4989-9d04-b2425920329b.png">
+
 In this version, I experimented with a few colors. In my sketch, I depicted 2021 in orange for contrast. This seemed to confuse viewers more than anything so I decided to see how it would look in a visualization. I decided I would send these versions back to my users and see if I could obtain additional feedback. 
 
 **Draft 3**
 <img width="860" alt="Screen Shot 2021-11-09 at 9 40 18 PM" src="https://user-images.githubusercontent.com/81713787/141053968-982808b3-ad0d-4740-b3b0-536747e6072e.png">
 Finally, I decided to complete the bundle with this additional visualization where I would show 2021s rank among the most violent years in terms of casualties. You'll see that I was also experimenting with graphic titles. 
 
-### User Feedback Round 2
+
+#### User Feedback Round 2
 This time, I just sent the visuals and asked for explicit feedback. This is what I received.
 
 User 1: *I like the first one (Draft 1) the most since you don’t have to keep scanning back at the year since it’s in order but the color is a bit too jolly for the topic.*
 
 User 2: *I like this headline the most (Draft 2) and the layout makes it easy to interpret the numbers!! Red and gray would be good changes for the theme.*
 
-#### Incorporating Feedback
+**Incorporating Feedback**
 I decided that based on these two comments, I would keep the data in chronological order, but I would rework the colors to reflect that a ranking system that wouldn't confuse the audience. 
+
+
 
 ## STEP Five: Build your solution. 
 Finally, after working through a critique of the original visual, conceptualizing a wireframe and adapting earlier drafts to incorporate user feedback, I came up with a final visualization. 
