@@ -48,7 +48,7 @@ User 3: *Shows number of Afghans killed each year and only up to June for 2021.*
 
 User 4: *These are two similar bar charts, and you are showing data on the number of Afghan casualties in both but in the second one, there are two bars to show injuries and deaths.*
 
-#### Question 2: Can you describe to me waht this is telling you?
+#### Question 2: Can you describe to me what this is telling you?
 User 1: *First graph shows the number of Afghanistan casualties drastically decline from 2016-21 vs. 2019-2021. The second shows the number of casualties peaked until 2016, declined from 2018-2020 and then peaked again in 2021.*
 
 User 2: *Significant increase in casualties after a dip in 2018/2019.*
