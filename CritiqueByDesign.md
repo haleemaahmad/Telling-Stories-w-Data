@@ -2,7 +2,7 @@
 
 # Critique By Design
 ## STEP One: Find a data visualization. 
-![alttext](https://github.com/haleemaahmad/Telling-Stories-w-Data/issues/1#issue-1049372629)
+![UNAMATotalCivCas](https://user-images.githubusercontent.com/81713787/141053265-b3c336a5-9ffc-4f2a-9e33-f006d342904b.jpeg)
 Source: [United Nations Assisted Mission in Afghanistan](https://news.un.org/en/story/2021/07/1096382)
 
 ## STEP Two: Critique the Visualization.
@@ -21,7 +21,8 @@ Overall, I don't mind this visualization but I do not think it properly does the
 
 ## STEP Three: Wireframe a solution.
 #### Wireframe sketch. 
-![alttext](https://github.com/haleemaahmad/Telling-Stories-w-Data/issues/2#issue-1049373033)
+![AfghanWireFrame](https://user-images.githubusercontent.com/81713787/141053329-c5303586-1f2b-4ed8-8ea5-b516a0d1ce85.jpg)
+
 #### Explanation 
 
 ## STEP Four: Test the solution. 
