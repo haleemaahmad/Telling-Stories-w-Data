@@ -28,6 +28,11 @@ Links that people can follow if they want to donate to help a cause in Lebanon. 
 
 
 ### **THE DATA**
-I have retrieved a number of sources from the World Bank, International Monetary Fund, and 
+[Data on the Lebanese Financial Crisis](https://github.com/haleemaahmad/Telling-Stories-w-Data/tree/main/Data)
+Lebanese Financial Data on Trade: 
+Lebanon GDP: 
+Lebanon Hunger Statistics:
+Middle East & North Africa Financial Data: 
 
 ### **Method and Medium**
+I will be using Shorthand to complete my project. I believe this is the best platform, for this story in particular, because it is a very dark and emotional situation. Throughout the entire story, I want to be able to evoke emotions from the audience that will help them understand how grave the situation is. In drafting, I have realized that a key threading element is the corruption in the Lebanese government. I would like to leverage this and use it as a theme to tell the story. In order to do this, I will use Tableau and Flourish to present data series and show how quickly the situation in Lebanon declined. Finally, I will use this platform to show people how they can help as well. 
