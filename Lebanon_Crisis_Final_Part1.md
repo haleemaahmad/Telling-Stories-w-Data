@@ -28,6 +28,7 @@ Links that people can follow if they want to donate to help a cause in Lebanon. 
 
 
 ### **THE DATA**
+[Data Source & Explanations](Lebanon_Crisis_Final_Part1_Data.md)
 [Data on the Lebanese Financial Crisis](https://github.com/haleemaahmad/Telling-Stories-w-Data/tree/main/Data)
 
 Lebanese Financial Data on Trade:
@@ -36,7 +37,7 @@ Source: [WITS World Bank](https://wits.worldbank.org/CountryProfile/en/LBN)
 
 [Lebanon GDP (World Bank)](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?end=2020&locations=LB&start=2020&view=map):
 
-[Lebanon Hunger Statistics](https://www.macrotrends.net/countries/LBN/lebanon/hunger-statistics ![image](https://user-images.githubusercontent.com/81713787/141924813-a3cf7865-fad7-4f66-a796-d28bd6d5c3e9.png))
+[Lebanon Hunger Statistics](https://www.macrotrends.net/countries/LBN/lebanon/hunger-statistics)
 :
 Middle East & North Africa Financial Data: 
 
