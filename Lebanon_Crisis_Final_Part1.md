@@ -51,3 +51,5 @@ In order to encapsulate the financial situation in Lebanon, I have needed to sco
 
 ### **Method and Medium**
 I will be using Shorthand to complete my project. I believe this is the best platform, for this story in particular, because it is a very dark and emotional situation. Throughout the entire story, I want to be able to evoke emotions from the audience that will help them understand how grave the situation is. In drafting, I have realized that a key threading element is the corruption in the Lebanese government. I would like to leverage this and use it as a theme to tell the story. In order to do this, I will use Tableau and Flourish to present data series and show how quickly the situation in Lebanon declined. Finally, I will use this platform to show people how they can help as well. 
+
+[Go back to my profile.](https://haleemaahmad.github.io/Telling-Stories-w-Data/)
