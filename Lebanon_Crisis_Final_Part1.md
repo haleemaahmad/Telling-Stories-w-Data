@@ -1,4 +1,5 @@
 # **Lebanon: How a Ponzi Scheme Led to Lebanon's Financial Meltdown**
+For my final project, I have decided to tell the story of the Lebanese financial crisis. I have been following this situation very closely over the last year and the tragic thing is that although it doesn't seem like it could get any worse for Lebanon, there have been significant events that have worsened the situation for the Lebanese citizens. In my outline below, I have chosen key events that I want to expand on for my story. 
 
 ### **Overview**
 #### 1. Ponzi Scheme
@@ -27,6 +28,6 @@ Links that people can follow if they want to donate to help a cause in Lebanon. 
 
 
 ### **THE DATA**
-
+I have retrieved a number of sources from the World Bank, International Monetary Fund, and 
 
 ### **Method and Medium**
