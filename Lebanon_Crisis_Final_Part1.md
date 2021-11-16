@@ -28,18 +28,26 @@ Links that people can follow if they want to donate to help a cause in Lebanon. 
 
 
 ### **THE DATA**
-[Data Source & Explanations](Lebanon_Crisis_Final_Part1_Data.md)
-[Data on the Lebanese Financial Crisis](https://github.com/haleemaahmad/Telling-Stories-w-Data/tree/main/Data)
+1. Lebanese Financial Data
++Source: [Lebanon IDAL](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?end=2020&locations=LB&start=2020&view=map)
++Source: [WITS World Bank](https://wits.worldbank.org/CountryProfile/en/LBN)
++Revenue: World Bank [Data](Data/API_NY.GDP.MKTP.KD.ZG_DS2_en_csv_v2_3158928.zip)
++GDP: World Bank [Data](Data/LBN_GDP.xls)
++Foreign Direct Investment - See: World Bank [Data](Data/LBN_GDP.xls)
 
-Lebanese Financial Data on Trade:
-Source: [Lebanon IDAL](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?end=2020&locations=LB&start=2020&view=map)
-Source: [WITS World Bank](https://wits.worldbank.org/CountryProfile/en/LBN)
+2. Lebanon Poverty Data
++[Hunger](https://www.macrotrends.net/countries/LBN/lebanon/hunger-statistics)
++[Poverty](Data/Data_Extract_From_Poverty_and_Equity.zip) Source: World Bank
 
-[Lebanon GDP (World Bank)](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?end=2020&locations=LB&start=2020&view=map):
+3. Inflation in Lebanon
++[Inflation Rates](https://tradingeconomics.com/lebanon/inflation-cpi)
++[Cost of Gas](Data/Data_Extract_From_Poverty_and_Equity.zip)
 
-[Lebanon Hunger Statistics](https://www.macrotrends.net/countries/LBN/lebanon/hunger-statistics)
-:
-Middle East & North Africa Financial Data: 
+4. Middle East Comparison
++[MENA Financial Data](Data/MENA Finance Data.xlsx)
+
+In order to encapsulate the financial situation in Lebanon, I have needed to scout multip reputable financial data files. I have extraced most of this data from the World Bank and World Bank affiliate sites, such as WITS (world Integrated Trade Solution) data. I have collected data on hunger and poverty in Lebanon which will support an analysis on scarcity and inflation. Additionally, as I discussed above, COVID-19 had a significant impact on Lebanon's tourism sector - one of the last remaining industries in Lebanon. This has severely impacted GDP and so I have collected GDP data to demonstrate the financial disparities in Lebanon as well. I have also collected comporable data on the neighborhing middle eastern countries to show a comparison to both war torn countries and prospering oil-rich countries in the region. 
+
 
 ### **Method and Medium**
 I will be using Shorthand to complete my project. I believe this is the best platform, for this story in particular, because it is a very dark and emotional situation. Throughout the entire story, I want to be able to evoke emotions from the audience that will help them understand how grave the situation is. In drafting, I have realized that a key threading element is the corruption in the Lebanese government. I would like to leverage this and use it as a theme to tell the story. In order to do this, I will use Tableau and Flourish to present data series and show how quickly the situation in Lebanon declined. Finally, I will use this platform to show people how they can help as well. 
