@@ -1,1 +1,32 @@
+# **Lebanon: How a Ponzi Scheme Led to Lebanon's Financial Meltdown**
 
+### **Overview**
+#### 1. Ponzi Scheme
+How the Lebanese central government convinced foreign investors to bank in Lebanon and how the instability of the Arab spring forced investors to pull their money out of Lebanon - leading to a financial crisis. 
+
+#### 2. COVID-19
+This section will show the devastation as brought on by COVID-19 in the midst of a critical financial crisis. I want to show how COVID-19 disrupted tourism in Lebanon, critical to the countrys stability, which led to a worsening financial situation. 
+
+#### 3. Beirut Blast
+At the peak of the financial crisis, negligence resulted in the Beirut blast, killing hundreds, injuring thousands and exacerbating a very critical situation. 
+
+#### 4. Civil War in the 21st Century
+The friction of the finanical situation and the rivaling religious governmental factions led to a violent standoff in October 2021. In this section, I hope that the situation will be presented as dire. 
+
+#### 5. Implications for Middle East Stability
+This section will explore how middle east relations could be strained and how dire it is to restore stability through global finacial intervention. I want to use this section to show people that there are real consequences such as bigger gloabl refugee crisis or increased tensions among key playsers in the region. 
+
+#### 6. How to help
+Links that people can follow if they want to donate to help a cause in Lebanon. I want to bring awareness to the situation and help people understand how critical the situation is and how they can help. I hope that by bringing awareness to this crisis, we can help do something to stop another global refugee crisis and restore some stability in the Middle East before the situation gets worse. 
+
+
+### **Initial Sketches**
+![1 2 LEB](https://user-images.githubusercontent.com/81713787/141923193-ffc6742b-444a-45b1-98a4-d84d9b51b480.jpg)
+![3 4](https://user-images.githubusercontent.com/81713787/141923200-92ae542b-b062-4a1c-9e47-20ddca73a549.jpg)
+![5 6](https://user-images.githubusercontent.com/81713787/141923206-a2e08f35-86fb-46eb-8a7d-d5ca71779364.jpg)
+
+
+### **THE DATA**
+
+
+### **Method and Medium**
