@@ -29,22 +29,22 @@ Links that people can follow if they want to donate to help a cause in Lebanon. 
 
 ### **THE DATA**
 1. Lebanese Financial Data
-+Source: [Lebanon IDAL](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?end=2020&locations=LB&start=2020&view=map)
-+Source: [WITS World Bank](https://wits.worldbank.org/CountryProfile/en/LBN)
-+Revenue: World Bank [Data](Data/API_NY.GDP.MKTP.KD.ZG_DS2_en_csv_v2_3158928.zip)
-+GDP: World Bank [Data](Data/LBN_GDP.xls)
-+Foreign Direct Investment - See: World Bank [Data](Data/LBN_GDP.xls)
++ Source: [Lebanon IDAL](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?end=2020&locations=LB&start=2020&view=map)
++ Source: [WITS World Bank](https://wits.worldbank.org/CountryProfile/en/LBN)
++ Revenue: World Bank [Data](Data/API_NY.GDP.MKTP.KD.ZG_DS2_en_csv_v2_3158928.zip)
++ GDP: World Bank [Data](Data/LBN_GDP.xls)
++ Foreign Direct Investment - See: World Bank [Data](Data/LBN_GDP.xls)
 
 2. Lebanon Poverty Data
-+[Hunger](https://www.macrotrends.net/countries/LBN/lebanon/hunger-statistics)
-+[Poverty](Data/Data_Extract_From_Poverty_and_Equity.zip) Source: World Bank
++ [Hunger](https://www.macrotrends.net/countries/LBN/lebanon/hunger-statistics)
++ [Poverty](Data/Data_Extract_From_Poverty_and_Equity.zip) Source: World Bank
 
 3. Inflation in Lebanon
-+[Inflation Rates](https://tradingeconomics.com/lebanon/inflation-cpi)
-+[Cost of Gas](Data/Data_Extract_From_Poverty_and_Equity.zip)
++ [Inflation Rates](https://tradingeconomics.com/lebanon/inflation-cpi)
++ [Cost of Gas](Data/Data_Extract_From_Poverty_and_Equity.zip)
 
 4. Middle East Comparison
-+[MENA Financial Data](Data/MENA Finance Data.xlsx)
++ [MENA Financial Data](Data/MENA Finance Data.xlsx)
 
 In order to encapsulate the financial situation in Lebanon, I have needed to scout multip reputable financial data files. I have extraced most of this data from the World Bank and World Bank affiliate sites, such as WITS (world Integrated Trade Solution) data. I have collected data on hunger and poverty in Lebanon which will support an analysis on scarcity and inflation. Additionally, as I discussed above, COVID-19 had a significant impact on Lebanon's tourism sector - one of the last remaining industries in Lebanon. This has severely impacted GDP and so I have collected GDP data to demonstrate the financial disparities in Lebanon as well. I have also collected comporable data on the neighborhing middle eastern countries to show a comparison to both war torn countries and prospering oil-rich countries in the region. 
 
