@@ -31,17 +31,30 @@ This presentation is intended for young adults that have either obtained or are 
 
 #### **Interview Script**
 ***Question 1***: Did you get a chance to review the shorthand presentation I shared with you? Was it easy to navigate?
+
 ***Question 2***: How much did you know about the Lebanese financial crisis before seeing this presentation?
+
+
 ***Question 3***:  How likely are you to click on any of the external links as part of the call to action?
+
 ***Question 4***: For these next few questions, I want to get a good understanding of what worked for you in the overall presentation. What worked well and what excited you about the presentation? 
+
 ***Question 5***: What did you value the most about this presentation?
+
 ***Question 6***: What resonated with you the most about this presentation?
+
 ***Question 7***: Now I would like to know what did not necessarily work for you. What did you not like about the presentation?
+
 ***Question 8***: What would you change about the presentation?
+
 ***Question 9***: Do you have any suggestions for improvement?
+
 ***Question 10***: What do you think will make this presentation better?
+
 ***Question 11***: These next few questions are aimed to understand your thought process while viewing the presentation. What questions came up while you were viewing the content? 
+
 ***Question 12***: What needs further investigation? 
+
 ***Question 13***: What made you curious?
 
 #### **User Personas**
@@ -56,7 +69,7 @@ This presentation is intended for young adults that have either obtained or are 
 4. Uninformed Frank
 
 
-#### **User Interviews**
+#### **Findings**
 
 
 Go back to my [portfolio](https://haleemaahmad.github.io/Telling-Stories-w-Data/).
