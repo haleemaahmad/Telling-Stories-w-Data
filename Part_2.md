@@ -30,6 +30,7 @@ This project aims to inform and educate young adults on the very pressing and re
 ### **Representative Users**
 This presentation is intended for young adults that have either obtained or are working on their college degrees. They need not to have a fluency in data analysis but should be able to understand a graphic and basic economic concepts such as gross domestic product (GDP), foreign direct investment (FDI), Gini coefficient and implications associated with trends of each.
 
+
 ### **Interview Script**
 ***Question 1***: Did you get a chance to review the shorthand presentation I shared with you? Was it easy to navigate?
 
@@ -68,6 +69,7 @@ This presentation is intended for young adults that have either obtained or are 
 3. Curious Carl
 
 4. Uninformed Frank
+
 
 
 ### **Key Insights**
