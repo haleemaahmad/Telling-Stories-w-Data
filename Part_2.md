@@ -1,15 +1,21 @@
-# **Final Project Wireframes/Storyboards & User Research**
+# **Final Project Part 2: Wireframes/Storyboards & User Research**
 
 ### **Storybaords**
 For this part, I decided to start building my storyboards with [Shorthand](https://preview.shorthand.com/GTJGVgN8AGG8TgSj). 
 
 Between the user research and the actual building, I was finally able to better picture how I wanted to tell the story of the Lebanese financial crisis. In fact, I piovted so instead of focusing on just the Ponzi scheme or the financial crisis itself, I was able to intertwine it with the unraveling humanitarian crisis. 
 
+#### Mood Board
+
+####
+
 
 ### **User Research**
 
 
 #### **Research Protocol**
+The users interviewed are all happened to be college educated, young adults, ages 19-35, with an even mix of male and female.
+All users were sent the link to the storyboard and asked to review before meeting and discussing with me over zoom or the telephone. All users kept the 
 
 
 #### **The Problem**
@@ -27,7 +33,7 @@ This presentation is intended for young adults that have either obtained or are 
 #### **User Personas**
 
 1. Activist Amy
-+Interested in politics
++ Has an interest in politics. Likely has a degree 
 
 2. Interested Irene
 
