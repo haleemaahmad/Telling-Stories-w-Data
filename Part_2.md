@@ -5,11 +5,6 @@ For this part, I decided to start building my storyboards with [Shorthand](https
 
 Between the user research and the actual building, I was finally able to better picture how I wanted to tell the story of the Lebanese financial crisis. In fact, I piovted so instead of focusing on just the Ponzi scheme or the financial crisis itself, I was able to intertwine it with the unraveling humanitarian crisis. 
 
-#### Mood Board
-
-####
-
-
 
 ## **User Research**
 
@@ -58,18 +53,6 @@ This presentation is intended for young adults that have either obtained or are 
 ***Question 12***: What needs further investigation? 
 
 ***Question 13***: What made you curious?
-
-### **User Personas**
-
-1. Activist Amy
-+ Has an interest in politics. Likely has a degree 
-
-2. Interested Irene
-
-3. Curious Carl
-
-4. Uninformed Frank
-
 
 
 ### **Key Insights**
@@ -138,6 +121,28 @@ This presentation is intended for young adults that have either obtained or are 
 
 ***Question 17***: Do you have any additional comments or feedback?
 + “I think the links you provide at the end are powerful. It makes me feel like I can do something about this and not just walk away from it feeling sad and defeated.”
+
+
+***User Research Synthesis***
+Overall, there is some consensus in the feedback I have received. First of all, all of the users in one way or another asked for more data. I like the suggestion to add more sociological data and I think it will support the overall objective of this presentation. Another common question I got was about the photos I decided to use. While I didn’t put together a formal mood or color board, I think the photos I used do have the same kind of scheme and set the tone for the topic and overall presentation.
+
+Based on the feedback, these are the ideas I plan to incorporate: 
++ More sociological data throughout the presentation
+++ Find a correlation between the various crises and mental health
+++ Gather data on general well-being of Lebanese citizens
+++ Gather data on population patterns
+
++ Regarding the section on Beirut Blast
+++ Create a map chart to show how far the blast extended
+++ Show death toll
+++ Show impact to businesses and economy, specifically trade 
+
++ COVID-19 Section
+++ Show more relational data between Lebanon and other Middle East countries 
+
++ Call to Action Section 
+++ Offer more details on the chosen NGOs and their credibility
+++ Create clickable boxes instead of just clickable links (maybe with photos)
 
 
 
