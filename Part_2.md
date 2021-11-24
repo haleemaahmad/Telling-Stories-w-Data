@@ -13,7 +13,7 @@ Between the user research and the actual building, I was finally able to better 
 
 
 #### **The Problem**
-How might we spread awareness using data and visualizations about the humanitarian crisis in Lebanon right now?![image](https://user-images.githubusercontent.com/81713787/143170207-468ff617-302e-46b1-8062-b7dec80391a8.png)
+How might we spread awareness using data and visualizations about the humanitarian crisis in Lebanon right now?
 
 
 #### **Objective**
@@ -27,6 +27,7 @@ This presentation is intended for young adults that have either obtained or are 
 #### **User Personas**
 
 1. Activist Amy
++Interested in politics
 
 2. Interested Irene
 
