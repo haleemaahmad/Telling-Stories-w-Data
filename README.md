@@ -19,3 +19,5 @@ This is where I will be showcasing what I learn in Telling Stories with Data. Ch
 [Critique By Design](CritiqueByDesign.md)
 
 [Final Project Part 1: Lebanon](Lebanon_Crisis_Final_Part1.md)
+
+[Final Project Part 2: Storyboard/Wireframes & User Research](Part_2.md)
