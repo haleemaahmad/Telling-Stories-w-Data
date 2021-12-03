@@ -21,3 +21,7 @@
 ***Refugee Crisis:*** One of my users asked me why Lebanon was any different from Syria, Iraq, or Palestine and I realized that, in fact, people could very well be jaded by yet another conflict in the Middle East. However, the Middle East is so unstable right now that Lebanon and Jordan are holding the region together and have absorbed a significant number of the refugees from neighboring conflicts. The current refugee crisis is a global crisis and the Arab states have absorbed the brunt of it. I had to find a way to convey that a failing Lebanese state would result in extreme conflict and crisis that would impact the entire world. 
 
 ***Call to Action:*** The final change I made was find more well-known agencies that people could donate to, if they felt compelled to, after the presentation. A few of my users seemed skeptical of the resources I had provided in my storyboards so I included links to the UN and Human Rights Watch, in addition to Lebanese NGOs.
+
+**Intended Audience**
+As intended, the audience for this project are young adults interested in being educated on the very pressing and real issues faced by the Lebanese people today and the greater implications for Middle East stability. This project aims to prompt young adults to engage with politics and economics on a global scale by looking at Lebanon and seeing how financial corruption has lent itself to a humanitarian crisis.  
+
