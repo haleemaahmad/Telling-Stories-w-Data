@@ -36,6 +36,9 @@ The final project is linked [here](https://carnegiemellon.shorthandstories.com/a
 
 
 [Main Page](https://haleemaahmad.github.io/Telling-Stories-w-Data/)
+
 [Lebanon Part 1](Lebanon_Crisis_Final_Part1.md)
+
 [Lebanon Part 1 Data Repository](https://github.com/haleemaahmad/Telling-Stories-w-Data/tree/main/Data)
+
 [Lebanon Part 2](Part_2.md)
