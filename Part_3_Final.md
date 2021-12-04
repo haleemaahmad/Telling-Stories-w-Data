@@ -30,7 +30,7 @@ Lebanon has been regarded as the "Switzerland of the Middle East." It's geograph
 
 It was my intention to set the stage for how corruption in the government created a devastating financial crisis that paved the way for COVID-19 spread all over the country. This situation was exacerbated by the Port of Beirut explosion in the summer of 2020 that made a crippling financial situation even worse by destorying Lebanon's ability to import necessary goods. Finally, another element of this situation is the global refugee crisis. At the start of the Palestinian conflict in the 20th century, Palestinians were forced to seek asylum in Syria, Lebanon, and Jordan. When the US war in Iraq started, Iraqi refugees were forced to seek asylum in neighboring countries such as Lebanon and Syria. And at the onset of the Syrian civil war, formerly displaced refugees from Palestine and Iraq were forced to settle in Lebanon with their newly displaced Syrian coutnerparts. A failing Lebanese state could have devastating global implications. While it feels like there's little that can be done, it is so important to not only raise awareness of this issue and its magnitude, but also help, if we can. 
 
-The final project is linked [here](https://carnegiemellon.shorthandstories.com/a-humanitarian-crisis-is-unfolding-in/index.html. I hope you enjoy it and I hope it helps you learn more about the crisis in Lebanon. 
+The final project is linked [here](https://carnegiemellon.shorthandstories.com/a-humanitarian-crisis-is-unfolding-in/index.html). I hope you enjoy it and I hope it helps you learn more about the crisis in Lebanon. 
 
 
 
