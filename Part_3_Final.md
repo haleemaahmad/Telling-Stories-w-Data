@@ -22,6 +22,20 @@
 
 ***Call to Action:*** The final change I made was find more well-known agencies that people could donate to, if they felt compelled to, after the presentation. A few of my users seemed skeptical of the resources I had provided in my storyboards so I included links to the UN and Human Rights Watch, in addition to Lebanese NGOs.
 
-**Intended Audience**
+## **Intended Audience**
 As intended, the audience for this project are young adults interested in being educated on the very pressing and real issues faced by the Lebanese people today and the greater implications for Middle East stability. This project aims to prompt young adults to engage with politics and economics on a global scale by looking at Lebanon and seeing how financial corruption has lent itself to a humanitarian crisis.  
 
+## **Final Story**
+Lebanon has been regarded as the "Switzerland of the Middle East." It's geographic location comes fully equipped with geopolitics; however, in the midst of seemingly neverending conflict in the region, Lebanon has also served as a sanctuary for refugees. On a personal note, it has been really sad to observe the unraveling of the Middle East and watch Lebanon crumble at the hands of government mismanagement and corruption as well as watch how this corruption has set the stage for crises to thrive, at the expense of innocent people. 
+
+It was my intention to set the stage for how corruption in the government created a devastating financial crisis that paved the way for COVID-19 spread all over the country. This situation was exacerbated by the Port of Beirut explosion in the summer of 2020 that made a crippling financial situation even worse by destorying Lebanon's ability to import necessary goods. Finally, another element of this situation is the global refugee crisis. At the start of the Palestinian conflict in the 20th century, Palestinians were forced to seek asylum in Syria, Lebanon, and Jordan. When the US war in Iraq started, Iraqi refugees were forced to seek asylum in neighboring countries such as Lebanon and Syria. And at the onset of the Syrian civil war, formerly displaced refugees from Palestine and Iraq were forced to settle in Lebanon with their newly displaced Syrian coutnerparts. A failing Lebanese state could have devastating global implications. While it feels like there's little that can be done, it is so important to not only raise awareness of this issue and its magnitude, but also help, if we can. 
+
+The final project is linked [here](https://carnegiemellon.shorthandstories.com/a-humanitarian-crisis-is-unfolding-in/index.html. I hope you enjoy it and I hope it helps you learn more about the crisis in Lebanon. 
+
+
+
+
+[Main Page](https://haleemaahmad.github.io/Telling-Stories-w-Data/)
+[Lebanon Part 1](Lebanon_Crisis_Final_Part1.md)
+[Lebanon Part 1 Data Repository](https://github.com/haleemaahmad/Telling-Stories-w-Data/tree/main/Data)
+[Lebanon Part 2](Part_2.md)
